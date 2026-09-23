@@ -51,8 +51,8 @@ A3: うたびよりでは、投稿した句を「その時の一句」として�
 
 ### Q4: 利用規約やプライバシーポリシーはどこで見られますか？
 A4:
-- 利用規約: https://takenoko1395.github.io/trust-center/apps/go-shichi-go/terms-of-service
-- プライバシーポリシー: https://takenoko1395.github.io/trust-center/apps/go-shichi-go/privacy-policy
+- 利用規約: https://tofu575.com/apps/go-shichi-go/terms-of-service.html
+- プライバシーポリシー: https://tofu575.com/apps/go-shichi-go/privacy-policy.html
 
 ### Q5: 問い合わせはどうすればいい？
 A5: お問い合わせは tofu575.dev@gmail.com までお願いします。
